@@ -1,0 +1,17 @@
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\bin\Debug\net8.0-windows\Calculadora IMC.exe
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\bin\Debug\net8.0-windows\Calculadora IMC.deps.json
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\bin\Debug\net8.0-windows\Calculadora IMC.runtimeconfig.json
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\bin\Debug\net8.0-windows\Calculadora IMC.dll
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\bin\Debug\net8.0-windows\Calculadora IMC.pdb
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\obj\Debug\net8.0-windows\Calculadora_IMC.Form1.resources
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\obj\Debug\net8.0-windows\Calculadora IMC.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\obj\Debug\net8.0-windows\Calculadora IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\obj\Debug\net8.0-windows\Calculadora IMC.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\obj\Debug\net8.0-windows\Calculadora IMC.AssemblyInfo.cs
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\obj\Debug\net8.0-windows\Calculadora IMC.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\obj\Debug\net8.0-windows\Calculadora IMC.dll
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\obj\Debug\net8.0-windows\refint\Calculadora IMC.dll
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\obj\Debug\net8.0-windows\Calculadora IMC.pdb
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\obj\Debug\net8.0-windows\Calculadora IMC.genruntimeconfig.cache
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\obj\Debug\net8.0-windows\ref\Calculadora IMC.dll
+C:\Users\manue\source\repos\Calculadora IMC\Calculadora IMC\obj\Debug\net8.0-windows\Calculadora_IMC.Form2.resources
