@@ -1,0 +1,13 @@
+C:\Users\manue\source\repos\Practica-P2\Practica-P2\bin\Debug\Practica-P2.exe.config
+C:\Users\manue\source\repos\Practica-P2\Practica-P2\bin\Debug\Practica-P2.exe
+C:\Users\manue\source\repos\Practica-P2\Practica-P2\bin\Debug\Practica-P2.pdb
+C:\Users\manue\source\repos\Practica-P2\Practica-P2\obj\Debug\Practica-P2.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\Practica-P2\Practica-P2\obj\Debug\Practica_P2.Form1.resources
+C:\Users\manue\source\repos\Practica-P2\Practica-P2\obj\Debug\Practica_P2.Properties.Resources.resources
+C:\Users\manue\source\repos\Practica-P2\Practica-P2\obj\Debug\Practica-P2.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\Practica-P2\Practica-P2\obj\Debug\Practica-P2.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\Practica-P2\Practica-P2\obj\Debug\Practica-P2.exe
+C:\Users\manue\source\repos\Practica-P2\Practica-P2\obj\Debug\Practica-P2.pdb
+C:\Users\manue\source\repos\Practica-P2\Practica-P2\obj\Debug\Practica_P2.Form2.resources
+C:\Users\manue\source\repos\Practica-P2\Practica-P2\obj\Debug\Practica_P2.Form3.resources
+C:\Users\manue\source\repos\Practica-P2\Practica-P2\obj\Debug\Practica_P2.Form4.resources
