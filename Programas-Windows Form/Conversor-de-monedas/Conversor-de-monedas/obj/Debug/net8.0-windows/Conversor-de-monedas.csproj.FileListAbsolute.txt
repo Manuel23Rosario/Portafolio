@@ -1,0 +1,17 @@
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\bin\Debug\net8.0-windows\Conversor-de-monedas.exe
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\bin\Debug\net8.0-windows\Conversor-de-monedas.deps.json
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\bin\Debug\net8.0-windows\Conversor-de-monedas.runtimeconfig.json
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\bin\Debug\net8.0-windows\Conversor-de-monedas.dll
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\bin\Debug\net8.0-windows\Conversor-de-monedas.pdb
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\obj\Debug\net8.0-windows\Conversor_de_monedas.Form1.resources
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\obj\Debug\net8.0-windows\Conversor_de_monedas.Properties.Resources.resources
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\obj\Debug\net8.0-windows\Conversor-de-monedas.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\obj\Debug\net8.0-windows\Conversor-de-monedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\obj\Debug\net8.0-windows\Conversor-de-monedas.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\obj\Debug\net8.0-windows\Conversor-de-monedas.AssemblyInfo.cs
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\obj\Debug\net8.0-windows\Conversor-de-monedas.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\obj\Debug\net8.0-windows\Conversor-de-monedas.dll
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\obj\Debug\net8.0-windows\refint\Conversor-de-monedas.dll
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\obj\Debug\net8.0-windows\Conversor-de-monedas.pdb
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\obj\Debug\net8.0-windows\Conversor-de-monedas.genruntimeconfig.cache
+C:\Users\manue\source\repos\Conversor-de-monedas\Conversor-de-monedas\obj\Debug\net8.0-windows\ref\Conversor-de-monedas.dll
